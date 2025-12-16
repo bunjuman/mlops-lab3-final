@@ -1,11 +1,9 @@
-# virtual env
-.venv/
-__pycache__/
-*.pyc
-
-# jupyter checkpoints
-.ipynb_checkpoints/
-
-# big / local-only artifacts
-mlruns/
-data/
+﻿mlflow
+scikit-learn
+pandas
+numpy
+matplotlib
+fastapi
+uvicorn[standard]
+joblib
+pydantic

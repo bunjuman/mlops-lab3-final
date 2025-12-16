@@ -1,4 +1,4 @@
-# virtual env
+﻿# virtual env
 .venv/
 __pycache__/
 *.pyc
@@ -9,3 +9,8 @@ __pycache__/
 # big / local-only artifacts
 mlruns/
 data/
+
+# editor / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
