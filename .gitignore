@@ -1,0 +1,11 @@
+# virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# big / local-only artifacts
+mlruns/
+data/
